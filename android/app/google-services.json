@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "709150622649",
-    "project_id": "future-you-os",
-    "storage_bucket": "future-you-os.firebasestorage.app"
+    "project_number": "1002776241724",
+    "project_id": "habitdrill-2f2a3",
+    "storage_bucket": "habitdrill-2f2a3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:709150622649:android:e624237fdbbb6e346aac68",
+        "mobilesdk_app_id": "1:1002776241724:android:727e5fd878c2d9276d8539",
         "android_client_info": {
           "package_name": "com.habitdrill.habitdrill"
         }
       },
       "oauth_client": [
         {
-          "client_id": "709150622649-k0md1psiqr4qvmpc6kl910sgltb5lsr3.apps.googleusercontent.com",
+          "client_id": "1002776241724-ill476li76jgo8r9gg98vqq2n76j4gco.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBe8DTpda4keWYQigD0B-pGlC_Pcwgtd9g"
+          "current_key": "AIzaSyCqBt0HSuishU5XPR0V03WHGQxLeJaJppU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "709150622649-k0md1psiqr4qvmpc6kl910sgltb5lsr3.apps.googleusercontent.com",
+              "client_id": "1002776241724-ill476li76jgo8r9gg98vqq2n76j4gco.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1002776241724-t5uht4ollam9qio75aoatsfnkv54i8q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.habitdrill.habitdrill"
+              }
             }
           ]
         }
@@ -37,4 +44,3 @@
   ],
   "configuration_version": "1"
 }
-
